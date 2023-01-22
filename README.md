@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sahiljangra88
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on web developement
 - 📫 How to reach me jangrasahil757@gmail.com
 
 <!---
