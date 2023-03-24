@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Sahiljangra88
-- 👀 I’m interested in Web developement and Android development
-- 🌱 I’m currently learning DSA
+- 👋 Hi, I’m Sahil Jangra.
+- 👀 I’m interested in Web developement.
+- 🌱 I’m currently learning DSA.
 - 📫 How to reach me jangrasahil757@gmail.com
 
 <!---
