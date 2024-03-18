@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sahil Jangra.
-- 👀 I’m interested in Programming.
-- 🌱 I’m currently learning Web Development.
+- 👀 I’m interested in Software Engineering.
+- 🌱 I’m currently learning Frontend Development.
 - 📫 How to reach me jangrasahil757@gmail.com
 
 <!---
